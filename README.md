@@ -33,8 +33,8 @@ ML-powered image recognition app using TensorFlow Lite in Flutter.
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/swetakothari16)  
-- 📧 Email: swetakothari16@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sweta-kothari)  
+- 📧 Email: swetakothari541@gmail.com  
 - 📝 [Portfolio Website](#) *(coming soon!)*  
 
 ---
