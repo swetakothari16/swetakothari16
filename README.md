@@ -49,7 +49,8 @@ I’m a motivated and detail-oriented **Flutter Developer with 3+ years of exper
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/swetakothari16)  
 - 📧 Email: swetakothari541@gmail.com  
-- 🐙 [GitHub](https://github.com/swetakothari16)  
+- 🐙 [GitHub](https://github.com/swetakothari16)
+- 📝 [Portfolio Website](https://portfolio-sweta.web.app/) 
 
 ---
 ✨ *“Code is like art — every app should be elegant, functional, and inspiring.”*
