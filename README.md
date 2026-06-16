@@ -1,28 +1,42 @@
 # Hi, I'm Sweta 👋
 🌸 Flutter Developer | Mobile App Enthusiast | AI Explorer  
 
-I build modern, scalable, and user-friendly mobile applications using **Flutter & Dart**.  
-Passionate about creating apps that solve real-world problems with clean architecture and beautiful UI.
+I’m a motivated and detail-oriented **Flutter Developer with 3+ years of experience** building cross‑platform mobile applications. Skilled in **Flutter, Dart, Firebase, REST APIs, and AI features**, I specialize in creating responsive UIs, integrating APIs, and deploying apps to the Play Store and App Store.  
 
 ---
 
-## 🚀 Tech Stack
-- **Languages:** Dart, Java, TypeScript  
-- **Frameworks:** Flutter, Firebase, REST APIs  
-- **Tools:** Git, GitHub Actions, VS Code, Android Studio  
-- **Other Interests:** AI/ML integration, Open Source Contributions  
+## 🚀 Technical Skills
+- **Languages:** Dart, Java  
+- **Frameworks:** Flutter (iOS & Android)  
+- **State Management:** Provider, GetX, Bloc, Riverpod  
+- **APIs & Services:** REST APIs, Firebase, Google Maps API, Payment Gateway Integration  
+- **Tools:** Git, GitHub, CI/CD, Postman, Android Studio, VS Code, Xcode  
+- **Concepts:** OOP, Clean Architecture, MVVM, Design Patterns  
+- **UI/UX:** Material Design, Wireframing, Prototyping  
 
 ---
 
 ## 📱 Featured Projects
-### 💰 [Money_Mate](https://github.com/swetakothari16/Money_Mate)
-Expense tracker app with Firebase sync, charts, and responsive UI.  
+### 💼 FixingDots CRM App
+- Designed and developed a complete CRM mobile application for client management and sales tracking.  
+- Integrated Firebase (Authentication, Firestore, FCM) for real-time sync and notifications.  
+- Published on Google Play Store & Apple App Store with 100+ live downloads.  
 
-### 📷 [Qr_scanner](https://github.com/swetakothari16/Qr_scanner)
-QR code scanner with camera integration and permission handling.  
+### ⚡ Edisonev EV Charging App
+- Built a cross-platform EV charging app with Google Maps API for nearby stations.  
+- Integrated Razorpay Payment Gateway for secure transactions.  
+- Improved app performance using Provider state management.  
 
-### 🤖 [AI Image Classifier](https://github.com/swetakothari16/ai_image_classifier)
-ML-powered image recognition app using TensorFlow Lite in Flutter.  
+### 📡 Flash Force Tracking App
+- Real-time device tracking with GPS, battery status, and network type.  
+- Optimized background execution for accuracy and performance.  
+
+### 🤖 AI Image Classifier
+- Flutter app integrating TensorFlow Lite for image recognition.  
+- Published as a package on **pub.dev**.  
+
+### 📝 Form Validator Dart
+- Published a reusable Flutter package on **pub.dev** for form validation.  
 
 ---
 
@@ -33,9 +47,9 @@ ML-powered image recognition app using TensorFlow Lite in Flutter.
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sweta-kothari)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/swetakothari16)  
 - 📧 Email: swetakothari541@gmail.com  
-- 📝 [Portfolio Website](#) *(coming soon!)*  
+- 🐙 [GitHub](https://github.com/swetakothari16)  
 
 ---
 ✨ *“Code is like art — every app should be elegant, functional, and inspiring.”*
